@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - start-blog
+      - copilot/add-new-feature
     paths:
       - "day-1.md"
 
